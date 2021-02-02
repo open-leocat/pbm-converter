@@ -18,7 +18,7 @@ public class Main {
                     System.out.print("Help:\n<command> <input> <output>\nFor no output use: -print\nTo enable Dithering use: -dith\n");
                     return;
                 } else if (s.equals("-version") || s.equals("-v")) {
-                    System.out.println("Leon Hoffmann 2020 PBM-Converter 1.0");
+                    System.out.println("Leon Hoffmann 2021 PBM-Converter 1.0");
                     return;
                 }
                 
