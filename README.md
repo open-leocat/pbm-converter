@@ -9,4 +9,6 @@ A PBM-Converter written in Java
 # How to use in console
 You can use -h or -help to get an overview of the commands.
 Here are some examples:
-```converter.jar picture.png picture.pbm
+```bash
+converter.jar picture.png picture.pbm
+```
