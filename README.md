@@ -9,6 +9,15 @@ A PBM-Converter written in Java
 # How to use in console
 You can use -h or -help to get an overview of the commands.
 Here are some examples:
+
+*Convert a .png file to .pbm*
 ```
 converter.jar picture.png picture.pbm
 ```
+*Convert and print to console*
+```
+converter.jar picture.png -print
+```
+*Use Dithering*
+```
+converter.jar picture.png picture.pbm -dith
