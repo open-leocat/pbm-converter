@@ -2,6 +2,7 @@
 A PBM-Converter written in Java
 
 # Features
-- Conversion
+- Conversion of many normal formats to PBM
 - Dithering
-- Files
+- Write Files (Or print to console if needed)
+- Practical and simple Java API
