@@ -2,6 +2,6 @@
 A PBM-Converter written in Java
 
 # Features
--Conversion
--Dithering
--Files
+- Conversion
+- Dithering
+- Files
