@@ -21,3 +21,9 @@ converter.jar picture.png -print
 *Use Dithering*
 ```
 converter.jar picture.png picture.pbm -dith
+```
+
+# Use as API
+
+Use the ```Writer``` class for this. It has two functions, ```writePBM``` and ```writeDithPBM```.
+```writePBM``` does not use dithering ```writeDithPBM``` does. To get a better example look into the source code of the converter.
