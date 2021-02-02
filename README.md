@@ -6,3 +6,4 @@ A PBM-Converter written in Java
 - Dithering
 - Write Files (Or print to console if needed)
 - Practical and simple Java API
+# How to use in console
