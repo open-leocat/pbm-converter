@@ -3,6 +3,8 @@ package net.davinci.converter;
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 
+//From https://stackoverflow.com/questions/5940188/how-to-convert-a-24-bit-png-to-3-bit-png-using-floyd-steinberg-dithering
+
 public class DitheringUtils {
 	
 	public static BufferedImage dithering(BufferedImage image) {
